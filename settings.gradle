@@ -1,0 +1,5 @@
+rootProject.name = 'lab5x-brigadagrea'
+include 'client'
+include 'server'
+include 'common'
+

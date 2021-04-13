@@ -1,0 +1,6 @@
+5,Sony BassBoost 3,portable speaker,10
+4,DSLR 2500,camera,23
+1,Acer,laptop,15
+2,Sony,Speakers,20
+3,HP,mouse,5
+10,produs,categ,4
